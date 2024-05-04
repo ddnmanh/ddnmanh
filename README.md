@@ -1,6 +1,6 @@
 <img src="./assets/banner.jpg" width="100%" alt="dnmanh" />
 
-<h2>Duc Manh, hello everyone!</h2><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+<h2>Duc Manh, hello everyone!<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/></h2>
 
 <!-- ## 👋 &nbsp;Duc Manh, Hello everyone! -->
 
