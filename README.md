@@ -1,4 +1,4 @@
-<img src="./assets/banner.jpg" width="100%" alt="dnmanh" />
+<img src="https://nguyenducmanhmysc.github.io/static-file-for-README-repo/nguyenducmanhmysc/banner.jpg" width="100%" alt="dnmanh" />
 
 <h2>Duc Manh, hello everyone!<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/></h2>
 
